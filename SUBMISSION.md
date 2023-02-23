@@ -17,7 +17,7 @@ out.
 
 - [5 pts] Your GitHub Actions dashboard showing the unsuccessful build after the breaking
 change.
-![Screen Capture #4](images/Broken%20Build.png)
+![Screen Capture #5](images/Broken%20Build.png)
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build failed
 status after the GitHub workflow fails.
@@ -26,9 +26,9 @@ status after the GitHub workflow fails.
 
 - [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking
 change has been fixed.
-![Screen Capture #4](images/successful%20first%20build.png)
+![Screen Capture #8](images/successful%20first%20build.png)
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
-![Screen Capture #4](images/Sucess%20shown%20in%20readme.md.png)
+![Screen Capture #9](images/Sucess%20shown%20in%20readme.png)
 
