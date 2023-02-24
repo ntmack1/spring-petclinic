@@ -9,7 +9,7 @@ changed to update the badge.
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success
 status after you’ve updated the badge markdown.
-![Screen Capture #3](images/successful%20first%20build.png)
+![Screen Capture #3](images/Updated%20badge%20showing%20success.png)
 
 - [5 pts] The section of the POM file showing the coordinates after you’ve commented them
 out.
@@ -28,9 +28,9 @@ status after the GitHub workflow fails.
 
 - [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking
 change has been fixed.
-![Screen Capture #8](images/Sucess%20shown%20in%20readme.png)
+![Screen Capture #8](images/Questions%208.png)
 
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
-![Screen Capture #9](images/Restored%20pom%20file.png)
+![Screen Capture #9](images/Sucess%20shown%20in%20readme.png)
 
